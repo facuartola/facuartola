@@ -8,9 +8,11 @@ Me ocupo del proceso completo: entender lo que necesita el cliente, modelar los 
 
 ### Sistema de gestión de cobros y gastos · *en uso diario*
 
+[ver repo](https://github.com/facuartola/sistema-gestion-cobros)
+
 Sistema para la administración de una consultora de coaching deportivo: cuotas de clientes, gastos por categoría, certificación por módulos, recordatorios, exportación a CSV y modo demo con datos ficticios. Rutas de API propias protegidas por login y **más de 500 tests automatizados**.
 
-`Next.js` `React` `Supabase (PostgreSQL + Auth)` `Vitest` `Netlify` · *código privado (proyecto de cliente)*
+`Next.js` `React` `Supabase (PostgreSQL + Auth)` `Vitest` `Netlify`
 
 ### Sitio web de coaching de alto rendimiento
 
